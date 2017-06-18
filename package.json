@@ -1,0 +1,34 @@
+{
+  "name": "babel-plugin-react-native-nodeify-hack",
+  "version": "1.0.1",
+  "description": "Use Node.js modules with React Native by injecting global symbols",
+  "main": "index.js",
+  "scripts": {},
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenneth-KT/babel-plugin-react-native-nodeify-hack"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "react-native",
+    "global",
+    "inject",
+    "node",
+    "node-js",
+    "nodeify",
+    "ReactNativify"
+  ],
+  "author": "Kenneth Law",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kenneth-KT/babel-plugin-react-native-nodeify-hack/issues"
+  },
+  "homepage": "https://github.com/Kenneth-KT/babel-plugin-react-native-nodeify-hack#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
